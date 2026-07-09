@@ -1,4 +1,4 @@
-# Atlas — AI-Powered Task & Knowledge Management System
+# AI-Powered Task & Knowledge Management System
 
 A minimal but complete MVP where an **admin** builds a knowledge base of documents and
 assigns tasks, and **users** semantically search that knowledge base and complete their
