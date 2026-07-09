@@ -1,0 +1,11 @@
+Production Deployment Checklist
+
+Before deploying to production, engineers must confirm the following:
+- All unit and integration tests pass in the CI pipeline.
+- Database migrations have been reviewed and tested on staging.
+- Feature flags are configured correctly for gradual rollout.
+- Rollback plan is documented and the previous build artifact is retained.
+- On-call engineer is notified of the deployment window.
+- Monitoring dashboards and alerts are verified after deployment completes.
+
+Any deployment outside business hours requires sign-off from the engineering lead.

@@ -1,0 +1,11 @@
+Employee Onboarding Guide
+
+New hires should complete the following steps in their first week:
+1. Set up your laptop and install the company VPN client.
+2. Complete the mandatory security and compliance training modules.
+3. Meet with your assigned mentor to review team goals and workflows.
+4. Request access to the internal knowledge base and project management tools.
+5. Schedule a one-on-one with your manager to discuss the 30-60-90 day plan.
+
+IT support can be reached at it-support@company.com for any access issues.
+HR handles benefits enrollment, which must be completed within 14 days of the start date.
